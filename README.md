@@ -8,7 +8,7 @@ En este proyecto, realizado junto a otros dos compañeros de la universidad, se 
 <p align="center"> 
     <a href="#" target="_blank"title="Python"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="48px"/> </a> 
 	<a href="#" target="_blank" title="Google Collab"> <img src="https://www.cursosgis.com/wp-content/uploads/1-17.png" width="48px"/> </a> 
-	<a href="#" target="_blank" title="Google Collab"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="48px"/> </a></p>
+	<a href="#" target="_blank" title="Jupyer Notebook"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="48px"/> </a></p>
 
 
 ## 🤔 ¿Qué podrás hacer aquí?
